@@ -1,0 +1,20 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PCB_Project.PrjPcb|ReportField=ProjectFullPath~D:\资料\临时工作区\大作业pcb - 副本\PCB_Project.PrjPcb|ReportField=Title~Bill of Materials For Project [PCB_Project.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~51|ReportField=ReportTime~23:06:12|ReportField=ReportDate~2017/10/31|ReportField=ReportDateTime~2017/10/31 23:06:12|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2017/10/31|ReportField=CurrentTime~23:04:22|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\资料\临时工作区\大作业pcb - 副本\LCD.SchDoc|ReportField=DocumentName~LCD.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2017/10/31|ReportField=Organization~|ReportField=ProjectName~PCB_Project.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~PCB_Project.PrjPcb|ReportField=DataSourceFullPath~D:\资料\临时工作区\大作业pcb - 副本\PCB_Project.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|Cap|无极性电容|C1, C2, C3, C4, C18, C19, C21|0805-2|Cap|7
+2|Cap|无极性电容|C5, C6, C7, C8, C9, C11, C12, C13, C14, C15, C16, C17|0603-2|Cap|12
+3|Cap Pol|极性电解电容|C10, C23, C24|CAP-3216|Cap Pol|3
+4|Cap Pol|极性电解电容|C20, C22|CAP-3528|Cap Pol|2
+5|JLX12864|12864点阵屏|J1|JLX12864|JLX12864|1
+6|pad_3x3|焊盘接口|J2, J3, J4, J6, J7, T+1, T-1|pad_3x3|pad_3x3|7
+7|MiniUSB|MiniUSB母座|J5|MINI USB|MiniUSB|1
+8|Header 3|接插件|P1|HDR3X1_A|Header 3|1
+9|SI2301|PMOS|Q1, Q2|SOT-23|SI2301|2
+10|Res1|贴片电阻|R1, R3, R5, R6|0805-2|Res1|4
+11|Res2|Resistor|R2|AXIAL-0.4|Res2|1
+12|Res1|贴片电阻|R4|0603-2|Res1|1
+13|SW_6x6|轻触开关|S1, S2, S3|button_6x6|button_6x6|3
+14|STM32F103C|STM32单片机48引脚|U1|LQFP-48_M|STM32F103C|1
+15|AD620|仪表放大器|U2|SOP8|AD620|1
+16|PCap01-AD|电容测量芯片|U3|QFN-32_5x5x05|Pcap01AD|1
+17|TP4056|锂电池充电管理|U4|SOP-8-PP|TP4056|1
+18|TPS7333|3V稳压|U5|SOP8|TPS7333|1
+19|ICL7660|负电压芯片|U6|SOP8|ICL7660|1
